@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash">#21131B</color>
+    <color name="ic_bg">#6E263D</color>
+    <style name="Theme.NewDubai" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/splash</item>
+        <item name="android:statusBarColor">#21131B</item>
+        <item name="android:navigationBarColor">#21131B</item>
+    </style>
+</resources>
